@@ -1,0 +1,22 @@
+{
+  "customer": [
+    {
+      "customername": "sdfsdfs",
+      "price": "123",
+      "address": "Udvada",
+      "id": 3
+    },
+    {
+      "customername": "Nupur",
+      "price": "sdfsdf",
+      "address": "sdfsdf",
+      "id": 4
+    },
+    {
+      "customername": "kkk",
+      "price": "sdf",
+      "address": "sfsd",
+      "id": 5
+    }
+  ]
+}
